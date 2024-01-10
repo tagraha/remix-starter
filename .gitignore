@@ -132,3 +132,6 @@ dist
 # remix build folder
 public
 build
+
+# mac unused files
+.DS_Store
