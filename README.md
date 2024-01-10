@@ -1,5 +1,8 @@
-# Welcome to Remix!
+# Welcome to Remix starter!
 
+- Shadcn UI
+- Tailwind css
+- Dark mode
 - [Remix Docs](https://remix.run/docs)
 
 ## Development
